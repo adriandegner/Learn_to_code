@@ -4,20 +4,3 @@
     box-sizing: border-box;
 }
 
-
-
-article {
-    width: 300px;
-    padding: 20px;
-    border: 2px solid black;
-}
-
-#erstes-projekt {
-    background: lightcoral;
-}
-.karte {
-    background: lightgreen;
-}
-article {
-    background: lightblue;
-}
